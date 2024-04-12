@@ -79,7 +79,7 @@ sentiment: Serves as a quick indicator of brand-related sentiment, allowing for 
 2. **Handling Missing Values:** Missing values were addressed using appropriate strategies, such as imputation or removal.
 3. **Renaming Columns:** Column names were simplified for clarity and consistency.
 4. **Text Cleaning:** Text data underwent cleaning to remove noise, punctuation, and irrelevant information.
-5. **Feature Engineering:** Additional features were engineered, like sentiment scores, to enhance analysis and modeling. Sentiments were categorized as positive, negative, or neutral, dropping ambiguous entries.
+5. **Feature Engineering:** Additional features were engineered, like sentiment score, to enhance analysis and modeling. Sentiments were categorized as positive, negative, or neutral, dropping ambiguous entries.
 
 # **EDA (Exploratory Data Analysis)**
 The EDA focused on gaining insights into customer sentiments towards Google and Apple products. Key findings include the majority of tweets expressing neutral sentiment and the necessity for data cleaning due to missing values.
